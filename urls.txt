@@ -1,3 +1,4 @@
+https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=USD&start=20220707&end=20220719&json
 course://web.backend?name="Veronika Miasoid"&group="ФЕІ-27"&subgroup="Підгрупа 2"#VeronikaMiasoid-art
 
 
