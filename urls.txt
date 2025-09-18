@@ -1,0 +1,3 @@
+course://web.backend?name="Veronika Miasoid"&group="ФЕІ-27"&subgroup="Підгрупа 2"#VeronikaMiasoid-art
+
+
